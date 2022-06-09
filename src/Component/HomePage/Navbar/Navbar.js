@@ -19,7 +19,7 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <a class="btn btn-ghost normal-case text-4xl font-rancho text-primary">Khan Mohammad Imran</a>
+                <Link to='/' className="btn btn-ghost normal-case text-4xl font-rancho text-primary">Khan Mohammad Imran</Link>
             </div>
             <div class="navbar-center hidden lg:flex">
                 <ul class="menu menu-horizontal p-0 font-nunito">
@@ -27,7 +27,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div class="navbar-end">
-                <a class="btn bg-accent text-white border-0">Hire Me</a>
+                <a class="btn bg-accent text-white border-0 invisible md:visible lg:visible">Hire Me</a>
             </div>
         </div>
     );
