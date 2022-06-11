@@ -1,15 +1,17 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { motion } from 'framer-motion'
 
 const Navbar = () => {
     const menuItems = <>
-        <li><Link to="/home">Home</Link></li>
-        <li><Link to="/service">Service</Link></li>
-        <li><Link to="/aboutme">About Me</Link></li>
-        <li><Link to="/contact">Contact</Link></li>
+        <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#home">Home</a></motion.li>
+        {/* <li><a href="#portfolio">Portfolio</a></li> */}
+        <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#myportfolio">About Me</a></motion.li>
+        <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#contact">Contact</a></motion.li>
+
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 sticky top-0 z-50 lg:w-11/12 mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex="0" className="btn btn-ghost lg:hidden">
@@ -19,7 +21,7 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <Link to='/' className="btn btn-ghost normal-case text-4xl font-rancho text-primary">Khan Mohammad Imran</Link>
+                <motion.span whileHover={{ scale: 1.1 }}><Link to='/' className="font-bold normal-case text-4xl font-rancho text-primary whitespace-nowrap">Khan Mohammad Imran</Link></motion.span>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0 font-nunito">
@@ -27,7 +29,8 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn bg-accent text-white border-0 invisible md:visible lg:visible">Hire Me</a>
+
+                <motion.span whileHover={{ scale: 1.1 }}><Link to='/' className="uppercase bg-accent p-3 rounded-lg text-white font-nunito invisible md:visible lg:visible">Hire Me</Link></motion.span>
             </div>
         </div>
     );

@@ -1,19 +1,8 @@
 import React from 'react';
 import { SkillBar } from 'react-skills';
+import { motion } from 'framer-motion'
 
 const Service = () => {
-    // const skillsData = [
-    //     {
-    //         name: 'ReactJS',
-    //         level: 100,
-    //         color: 'blue',
-    //     },
-    //     {
-    //         name: 'SomeOtherTech',
-    //         level: 85,
-    //         color: 'red',
-    //     }
-    // ]
 
     return (
         <div className='w-1/2 mx-auto font-nunito py-4'>

@@ -5,7 +5,7 @@ import myResume from '../../../images/Khan-mohammad-imran-resume.pdf'
 
 const Banner = () => {
     return (
-        <div className="hero min-h-screen">
+        <div id='banner' className="hero min-h-screen">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img src={webDeveloper} className="rounded-lg" alt='' />
                 <div className='font-nunito w-1/2'>
