@@ -1,16 +1,38 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import picassoPainting from '../../../images/picassoPainting.png'
 import huntingHiking from '../../../images/hiking.png'
 import tempestTravel from '../../../images/tempestTravel.png'
 import { useNavigate } from 'react-router-dom';
-import { motion } from 'framer-motion'
+import { motion, useAnimation } from 'framer-motion'
+import { useInView } from 'react-intersection-observer';
 
 const Projects = () => {
     const navigate = useNavigate()
+
+    const { ref, inView } = useInView({
+        threshold: 0.2
+    });
+    const animation = useAnimation();
+    useEffect(() => {
+        if (inView) {
+            animation.start({
+                x: 0,
+                transition: {
+                    type: 'spring', duration: 4
+                }
+            })
+        }
+        if (!inView) {
+            animation.start({ x: '-100vw' })
+        }
+        console.log("use effect hook, inView  = ", inView)
+    }, [inView])
+
+
     return (
-        <motion.div>
+        <motion.div ref={ref}>
             <h2 className='bg-neutral py-8 text-center text-5xl'>Portfolios</h2>
-            <motion.div initial={{ y: 200 }} animate={{ y: -10 }} transition={{ delay: 0.2, stiffness: 5 }} className='grid lg:grid-cols-3 gap-2 justify-items-center font-nunito bg-neutral py-8'>
+            <motion.div animate={animation} className='grid lg:grid-cols-3 gap-2 justify-items-center font-nunito bg-neutral py-8'>
                 <div className="card bg-white shadow-xl lg:w-96 sm:auto-cols-auto">
                     <figure className="px-10 pt-10">
                         <motion.img whileHover={{ scale: 1.1 }} src={picassoPainting} alt="Shoes" className="rounded-xl border-2 p-3" />

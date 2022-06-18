@@ -7,8 +7,8 @@ const TempestTravel = () => {
     return (
         <div className='mx-auto'>
             <h2 className='py-8 text-center text-5xl font-nunito'>Tempest Travel</h2>
-            <div class="btn-group flex justify-center">
-                <button class="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/tempest-travel">Github</a></button>
+            <div className="btn-group flex justify-center">
+                <button className="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/tempest-travel">Github</a></button>
                 <button className="btn btn-accent text-white"> <a href="https://dancing-alpaca-52c555.netlify.app/">Visit Website</a></button>
             </div>
             <div className='w-1/2 mx-auto'>

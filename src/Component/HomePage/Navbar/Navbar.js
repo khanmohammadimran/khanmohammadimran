@@ -5,9 +5,10 @@ import { motion } from 'framer-motion'
 const Navbar = () => {
     const menuItems = <>
         <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#home">Home</a></motion.li>
-        {/* <li><a href="#portfolio">Portfolio</a></li> */}
         <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#myportfolio">About Me</a></motion.li>
         <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="#contact">Contact</a></motion.li>
+        {/* <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><a href="/blog">Blog</a></motion.li> */}
+        <motion.li whileHover={{ scale: 1.2, fontWeight: 'bold' }}><Link to="/blog">Blog</Link></motion.li>
 
     </>
     return (
@@ -29,8 +30,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-
-                <motion.span whileHover={{ scale: 1.1 }}><Link to='/' className="uppercase bg-accent p-3 rounded-lg text-white font-nunito invisible md:visible lg:visible">Hire Me</Link></motion.span>
+                <motion.a className='uppercase bg-accent p-3 rounded-lg text-white font-nunito invisible md:visible lg:visible' whileHover={{ scale: 1.1 }} href="mailto:khanmohammadimran.i31@gmail.com">Hire Me</motion.a>
             </div>
         </div>
     );

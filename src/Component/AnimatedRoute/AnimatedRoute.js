@@ -8,6 +8,7 @@ import HikingGear from '../HomePage/Projects/HikingGear/HikingGear'
 import TempestTravel from '../HomePage/Projects/TempestTravel/TempestTravel'
 
 import { AnimatePresence } from 'framer-motion'
+import Blog from '../HomePage/Blog/Blog';
 
 
 const AnimatedRoute = () => {
@@ -19,6 +20,7 @@ const AnimatedRoute = () => {
                 <Route path='home' element={<Home />}></Route>
                 <Route path='contact' element={<Contact />}></Route>
                 <Route path='aboutme' element={<MyPortfolio />}></Route>
+                <Route path='blog' element={<Blog />}></Route>
                 <Route path='PicassoPainting' element={<PicassoPainting />}></Route>
                 <Route path='HikingGear' element={<HikingGear />}></Route>
                 <Route path='TempestTravel' element={<TempestTravel />}></Route>

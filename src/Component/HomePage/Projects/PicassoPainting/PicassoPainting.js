@@ -9,10 +9,10 @@ const PicassoPainting = () => {
     return (
         <div className='mx-auto'>
             <h2 className='py-8 text-center text-5xl font-nunito'>Picasso Painting</h2>
-            <div class="btn-group flex justify-center">
-                <button class="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/picasso-painting-client">Github Client</a></button>
+            <div className="btn-group flex justify-center">
+                <button className="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/picasso-painting-client">Github Client</a></button>
                 <button className="btn btn-accent text-white"> <a href="https://picasso-painting-474a4.web.app/">Visit Website</a></button>
-                <button class="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/picasso-painting-server">Github Client</a></button>
+                <button className="btn btn-primary text-white"> <a href="https://github.com/khanmohammadimran/picasso-painting-server">Github Client</a></button>
             </div>
             <div className='w-1/2 mx-auto'>
                 <img className='drop-shadow-md py-8' src={Picasso} alt="" />
