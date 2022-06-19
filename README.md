@@ -20,7 +20,7 @@ Netlify, Figma, Adobe-Photoshop, Adobe-Illustrator
 
 Contact Me
 ---------------------
-• Email: khanmohammadimran.i31@gmail.com
+• Email: khanmohammadimran.i31@gmail.com <br>
 • Phone: +8801644399363 (WhatsApp)
 • Facebook: https://www.facebook.com/khanmohammadimran23/
 
