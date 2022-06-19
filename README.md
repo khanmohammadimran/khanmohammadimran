@@ -21,7 +21,7 @@ Netlify, Figma, Adobe-Photoshop, Adobe-Illustrator
 Contact Me
 ---------------------
 • Email: khanmohammadimran.i31@gmail.com <br>
-• Phone: +8801644399363 (WhatsApp)
+• Phone: +8801644399363 (WhatsApp) <br>
 • Facebook: https://www.facebook.com/khanmohammadimran23/
 
 Skills: JavaScript / REACT / Node JS / HTML / CSS / Tailwind / Bootstrap
