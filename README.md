@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+### Hey there, my name is Imran.
+#### MERN Stack Web Developer
+![MERN Stack Web Developer](https://export-download.canva.com/xDjl4/DAFEF_xDjl4/5/0/0001-28999540612.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220619T093751Z&X-Amz-Expires=56372&X-Amz-Signature=f9be3c35cacef74cd3ddb09b03252ba873f8b46aa865da8d42e2b4b8a2f78086&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Tropical%2520Green%2520Facebook%2520Cover%2520Time%2520Travel.png&response-expires=Mon%2C%2020%20Jun%202022%2001%3A17%3A23%20GMT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello, I am Khan Mohammad Imran. I am a Web Developer. I like to create new web applications. Also it's great to explore new web applications and learn new things about coding.
 
-## Available Scripts
+Expertise:
+JavaScript, ES6, React, React Router, React Hook, Firebase (Authentication),
+HTML5, CSS3, Bootstrap-5, Tailwind-3
 
-In the project directory, you can run:
+Comfortable:
+Node-js, Express.js, MongoDB
 
-### `npm start`
+Familiar:
+Next JS, React Native, Material-UI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tools:
+GitHub, Visual Studio Code (VS Code), Chrome Dev Tools, Postman, Heroku,
+Netlify, Figma, Adobe-Photoshop, Adobe-Illustrator
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Contact Me
+---------------------
+• Email: khanmohammadimran.i31@gmail.com
+• Phone: +8801644399363 (WhatsApp)
+• Facebook: https://www.facebook.com/khanmohammadimran23/
 
-### `npm test`
+Skills: JavaScript / REACT / Node JS / HTML / CSS / Tailwind / Bootstrap
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🔭 I’m currently working on Picasso Painting Project 
+- 🌱 I’m currently learning TypeScript 
+- 💬 Ask me about Web development 
+- 📫 How to reach me: You can email me or message me on LinkedIn, Facebook  
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khanmohammadimran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khanmohammadimran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/khanmohammadimran23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imran_khan33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khan-mohammad-imran.netlify.app/)  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmohammadimran)](https://github.com/anuraghazra/github-readme-stats)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanmohammadimran&show_icons=true)  
 
-### `npm run eject`
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanmohammadimran)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Profile views](https://gpvc.arturio.dev/khanmohammadimran)  
