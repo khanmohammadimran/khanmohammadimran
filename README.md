@@ -26,7 +26,7 @@ Contact Me
 
 Skills: JavaScript / REACT / Node JS / HTML / CSS / Tailwind / Bootstrap
 
-- 🔭 I’m currently working on Picasso Painting Project 
+- 🔭 I’m currently working on Doctors Portal Project 
 - 🌱 I’m currently learning TypeScript 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: You can email me or message me on LinkedIn, Facebook  
