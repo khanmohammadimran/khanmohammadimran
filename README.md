@@ -1,5 +1,6 @@
 ### Hey there, my name is Imran.
 #### MERN Stack Web Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!++I'm+Khan+Mohammad+Imran;I'm+a+MERN+Stack+Web+Developer)](https://git.io/typing-svg)
 ![MERN Stack Web Developer](https://i.postimg.cc/2jJgVVzL/Tropical-Green-Facebook-Cover-Time-Travel.png)
 
 Hello, I am Khan Mohammad Imran. I am a Web Developer. I like to create new web applications. Also it's great to explore new web applications and learn new things about coding.
