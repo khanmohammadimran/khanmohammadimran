@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hello+there!+My+name+is+Imran;I'm+a+MERN+Stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&width=435&lines=Hello+there!+My+name+is+Imran;I'm+a+MERN+Stack+developer.)](https://git.io/typing-svg)
 ![MERN Stack Web Developer](https://i.postimg.cc/2jJgVVzL/Tropical-Green-Facebook-Cover-Time-Travel.png)
 
 Hello, I am Khan Mohammad Imran. I am a Web Developer. I like to create new web applications. Also it's great to explore new web applications and learn new things about coding.
