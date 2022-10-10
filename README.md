@@ -36,7 +36,6 @@ Skills: JavaScript / REACT / Node JS / HTML / CSS / Tailwind / Bootstrap
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmohammadimran)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanmohammadimran&show_icons=true)  
-https://github-readme-stats.vercel.app/api?username=khanmohammadimran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanmohammadimran)  
 
 ![Profile views](https://gpvc.arturio.dev/khanmohammadimran)  
