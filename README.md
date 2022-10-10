@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there!!!+I'm+Imran;I'm+a+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -44,12 +42,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=khanmohammadimran&theme=gotham&hide_border=true&area=true)
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{khanmohammadimran}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 ![Profile views](https://gpvc.arturio.dev/khanmohammadimran)  
