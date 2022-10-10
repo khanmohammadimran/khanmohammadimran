@@ -1,41 +1,55 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&width=435&lines=Hello+there!+My+name+is+Imran;I'm+a+MERN+Stack+developer.)](https://git.io/typing-svg)
-![MERN Stack Web Developer](https://i.postimg.cc/2jJgVVzL/Tropical-Green-Facebook-Cover-Time-Travel.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-Hello, I am Khan Mohammad Imran. I am a Web Developer. I like to create new web applications. Also it's great to explore new web applications and learn new things about coding.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there!!!+I'm+Imran;I'm+a+MERN+Stack+Developer)](https://git.io/typing-svg)
 
-Expertise:
-JavaScript, ES6, React, React Router, React Hook, Firebase (Authentication),
-HTML5, CSS3, Bootstrap-5, Tailwind-3
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khanmohammadimran&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanmohammadimran&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-Comfortable:
-Node-js, Express.js, MongoDB
+### Skills:
 
-Familiar:
-Next JS, React Native, Material-UI
+<div style="display: inline_block"><br>
+<img align="center" alt="khanmohammadimran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="khanmohammadimran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="khanmohammadimran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="khanmohammadimran-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="khanmohammadimran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="khanmohammadimran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="khanmohammadimran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="khanmohammadimran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+      
+  
+  <img align="right" alt="khanmohammadimran-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div>
 
-Tools:
-GitHub, Visual Studio Code (VS Code), Chrome Dev Tools, Postman, Heroku,
-Netlify, Figma, Adobe-Photoshop, Adobe-Illustrator
+<a href="https://www.facebook.com/khanmohammadimran23/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/imran_khan33" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/khanmohammadimran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:khanmohammadimran.i31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Contact Me
----------------------
-• Email: khanmohammadimran.i31@gmail.com <br>
-• Phone: +8801644399363 (WhatsApp) <br>
-• Facebook: https://www.facebook.com/khanmohammadimran23/
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-Skills: JavaScript / REACT / Node JS / HTML / CSS / Tailwind / Bootstrap
+</div>
 
-- 🔭 I’m currently working on Doctors Portal Project 
-- 🌱 I’m currently learning TypeScript 
-- 💬 Ask me about Web development 
-- 📫 How to reach me: You can email me or message me on LinkedIn, Facebook  
+<!---
+khanmohammadimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=khanmohammadimran&theme=gotham&hide_border=true&area=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khanmohammadimran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khanmohammadimran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/khanmohammadimran23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imran_khan33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khan-mohammad-imran.netlify.app/)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{khanmohammadimran}/count.svg" /></p> 
+<br></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmohammadimran)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanmohammadimran&show_icons=true)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khanmohammadimran)  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 ![Profile views](https://gpvc.arturio.dev/khanmohammadimran)  
